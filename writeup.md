@@ -17,7 +17,7 @@
 [image4]: ./pics/graph2.jpg
 [image5]: ./pics/architecture.jpg
 [image6]: ./pics/test_images.jpg
-[image7]: ./pics/softmax_text.jpg
+[image7]: ./pics/sofrmax_text.jpg
 [image8]: ./pics/softmax_image.jpg
 
 ---
